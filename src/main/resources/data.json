@@ -1,0 +1,36 @@
+[
+    {
+      "primerNombre": "Juan",
+      "segundoNombre": "Alejandro",
+      "primerApellido": "González",
+      "segundoApellido": "Rodríguez",
+      "telefono": "5551234567",
+      "direccion": "Calle Falsa 123",
+      "ciudadDeResidencia": "Ciudad de México",
+      "identificacion": "12345678",
+      "tipoIdentificacion": "C"
+    },
+    {
+      "primerNombre": "Jhenny",
+      "segundoNombre": "María",
+      "primerApellido": "Pérez",
+      "segundoApellido": "López",
+      "telefono": "5557654321",
+      "direccion": "Avenida Siempre Viva 742",
+      "ciudadDeResidencia": "Guadalajara",
+      "identificacion": "1039454860",
+      "tipoIdentificacion": "C"
+    },
+    {
+      "primerNombre": "María",
+      "segundoNombre": "José",
+      "primerApellido": "Sánchez",
+      "segundoApellido": "Jiménez",
+      "telefono": "5558765432",
+      "direccion": "Boulevard Principal 789",
+      "ciudadDeResidencia": "Puebla",
+      "identificacion": "23445322",
+      "tipoIdentificacion": "C"
+    }
+  ]
+  
